@@ -21,7 +21,7 @@
 <div align="center">
   
 ### 🎭 **The Developer Chronicles**
-*"In a world of infinite possibilities, I choose to code."*
+*Passionate frontend developer bringing designs to life through code. I specialize in creating beautiful, responsive, and user-friendly interfaces that provide exceptional user experiences. From React components to pixel-perfect animations, I love turning creative visions into interactive realities. When I'm not crafting the perfect UI, you'll find me exploring the latest frontend frameworks, optimizing performance, or diving into modern web technologies. My mission? To build interfaces that users love and remember.*
 
 </div>
 
@@ -30,16 +30,16 @@
 ```javascript
 const gendrik = {
     pronouns: "he/him",
-    code: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
-    askMeAbout: ["web dev", "system design", "coffee", "space exploration"],
+    code: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
+    askMeAbout: ["React", "UI/UX", "responsive design", "web animations"],
     technologies: {
-        frontend: ["React", "Vue", "Next.js", "Svelte"],
-        backend: ["Node.js", "Python", "Go", "Docker"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        misc: ["Firebase", "AWS", "Linux", "Git"]
+        frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
+        styling: ["CSS3", "Sass", "Styled Components", "Material-UI"],
+        tools: ["Webpack", "Vite", "Figma", "Git"],
+        testing: ["Jest", "React Testing Library", "Cypress"]
     },
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    currentlyLearning: "WebAssembly & Quantum Computing",
+    focus: ["Component Architecture", "Performance Optimization", "Accessibility"],
+    currentlyLearning: "Three.js & WebGL",
     funFact: "I debug code in my dreams 🌙"
 };
 ```
@@ -126,8 +126,7 @@ const gendrik = {
 
 ### 📬 **Reach Me At:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gendrik-victoria/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gendrik.victoria@gmail.com)
 
 </div>
 
