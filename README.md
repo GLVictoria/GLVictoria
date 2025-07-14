@@ -12,7 +12,7 @@
 ```
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+realm!;I'm+Gendrik+-+Code+Architect;Building+the+future,+one+commit+at+a+time!&center=true&size=27">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+realm!;I'm+Gendrik+-+Frontend+Developer;Crafting+beautiful+UIs,+one+pixel+at+a+time!&center=true&size=27">
 </h1>
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
