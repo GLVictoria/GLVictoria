@@ -125,7 +125,7 @@ const gendrik = {
 ```
 
 ### 📬 **Reach Me At:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gendrik-victoria/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
@@ -137,7 +137,7 @@ const gendrik = {
   
 **🌟 Thanks for stopping by! Have an awesome day! 🌟**
 
-<img src="https://profile-counter.glitch.me/GLVictoria/count.svg" alt="visitor count" />
+![Profile Views](https://komarev.com/ghpvc/?username=GLVictoria&label=Profile%20Views&color=0e75b6&style=flat)
 
 <details>
 <summary>🎁 <b>Click for a surprise!</b></summary>
