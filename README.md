@@ -46,11 +46,11 @@ const gendrik = {
     technologies: {
         frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
         styling: ["CSS3", "Sass", "Styled Components", "Material-UI"],
-        tools: ["Git", "Webpack", "Vite", "Figma", "Adobe Photoshop"],
+        tools: ["Git", "Webpack", "Vite", "Figma", "Adobe Photoshop", "WordPress"],
         testing: ["Jest", "React Testing Library", "Cypress"]
     },
     currentWork: "Frontend Developer @ Caag Online (2021 - Present)",
-    education: "BASc Information Technology @ Fontys University (2021-2026)",
+    education: "BASc Information Technology @ Fontys University",
     focus: ["Component Architecture", "Performance Optimization", "User Experience"],
     currentlyLearning: "Advanced React Patterns & Three.js",
     funFact: "I debug code in my dreams 🌙"
@@ -66,15 +66,12 @@ const gendrik = {
 Building modern web applications and user interfaces
 
 **Developer** @ Profound  
-*September 2024 - January 2025*  
 Full-stack development projects
 
 **IT Administrator** @ Fundashon Kuido di Ambulans Kòrsou  
-*September 2019 - December 2020*  
 System administration and technical support
 
 **IT Help Desk Support** @ Government of Curaçao  
-*January 2020 - July 2020*  
 Technical support and troubleshooting
 
 <br clear="right"/>
@@ -82,10 +79,10 @@ Technical support and troubleshooting
 ## 🎓 **Education & Certifications**
 
 **Bachelor of Applied Science - Information Technology**  
-Fontys University of Applied Sciences | 2021 - 2026
+Fontys University of Applied Sciences
 
 **ICT Manager Level 4**  
-Frater Aurelio S.B.O. | 2020 - 2021
+Frater Aurelio S.B.O.
 
 **Certifications:**
 - ICT & Media Design (Multiple Semesters)
@@ -105,13 +102,24 @@ Frater Aurelio S.B.O. | 2020 - 2021
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLVictoria&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GLVictoria&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLVictoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLVictoria&layout=compact&theme=radical&hide_border=true"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLVictoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GLVictoria&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&langs_count=6&hide=python,java,c,c%2B%2B,php)
+
+</div>
+
+<div align="center">
+
+### 🏅 **GitHub Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GLVictoria&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -138,6 +146,7 @@ Frater Aurelio S.B.O. | 2020 - 2021
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -170,7 +179,7 @@ Frater Aurelio S.B.O. | 2020 - 2021
 │                                                             │
 │  💡 Got an idea? Let's turn it into reality!               │
 │  🤝 Want to collaborate? I'm always up for a challenge!    │
-│  ☕ Coffee chat? Let's talk tech and innovation!           │
+│  🍵 Tea chat? Let's talk tech and innovation!              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
