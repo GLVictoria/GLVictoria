@@ -7,15 +7,15 @@
   ██║   ██║██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██║██╔═██╗     ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗██║██╔══██║
   ╚██████╔╝███████╗██║ ╚████║██████╔╝██║  ██║██║██║  ██╗     ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║██║██║  ██║
    ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝      ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-                                                                                                                         
-   ⚡ POWERED BY PASSION • FUELED BY CAPRI SUN • DRIVEN BY CODE ⚡
 ```
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+realm!;Frontend+Developer;Crafting+Amazing+UIs&center=true&size=27">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Frontend+Developer;Media+Designer+%26+Developer;Crafting+Digital+Experiences;Based+in+Netherlands&center=true&size=27">
 </h1>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+### ⚡ POWERED BY PASSION • FUELED BY CAPRI SUN • DRIVEN BY CODE ⚡
+
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -23,8 +23,14 @@
 
 <div align="center">
   
-### 🎭 **The Developer Chronicles**
-*Passionate frontend developer bringing designs to life through code. I specialize in creating beautiful, responsive, and user-friendly interfaces that provide exceptional user experiences. From React components to pixel-perfect animations, I love turning creative visions into interactive realities. When I'm not crafting the perfect UI, you'll find me exploring the latest frontend frameworks, optimizing performance, or diving into modern web technologies. My mission? To build interfaces that users love and remember.*
+### 👨‍💻 **About Me**
+
+**Junior Frontend Developer | Media Designer**  
+📍 Eindhoven, North Brabant, Netherlands
+
+*Hey there! I'm all about bringing creative ideas to life as a media designer and front-end developer. I thrive on crafting digital experiences that not only look great but also work seamlessly. Over the years, I've learned the importance of listening closely to clients and colleagues alike. By building strong relationships and staying open to feedback, I make sure everyone's on the same page and happy with the results.*
+
+*In this fast-paced field, I've become a pro at staying cool under pressure. I'm no stranger to juggling multiple projects, but I always make sure to deliver quality work on time. What really drives me? It's the thrill of pushing boundaries and constantly learning new things. I'm here to make the web a better, more user-friendly place—one project at a time. Let's create something amazing together!*
 
 </div>
 
@@ -32,34 +38,70 @@
 
 ```javascript
 const gendrik = {
-    pronouns: "he/him",
+    location: "Eindhoven, Netherlands 🇳🇱",
+    currentRole: "Junior Frontend Developer",
+    experience: "4+ years in Frontend Development",
     code: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
-    askMeAbout: ["React", "UI/UX", "responsive design", "web animations"],
+    askMeAbout: ["Web Applications", "UI/UX Design", "Frontend Architecture"],
     technologies: {
         frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
         styling: ["CSS3", "Sass", "Styled Components", "Material-UI"],
-        tools: ["Webpack", "Vite", "Figma", "Git"],
+        tools: ["Git", "Webpack", "Vite", "Figma", "Adobe Photoshop"],
         testing: ["Jest", "React Testing Library", "Cypress"]
     },
-    focus: ["Component Architecture", "Performance Optimization", "Accessibility"],
-    currentlyLearning: "Three.js & WebGL",
+    currentWork: "Frontend Developer @ Caag Online (2021 - Present)",
+    education: "BASc Information Technology @ Fontys University (2021-2026)",
+    focus: ["Component Architecture", "Performance Optimization", "User Experience"],
+    currentlyLearning: "Advanced React Patterns & Three.js",
     funFact: "I debug code in my dreams 🌙"
 };
 ```
 
-## 🎯 **Current Quests**
+## 💼 **Professional Experience**
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌟 **Building** the next generation of web applications
-- 🔬 **Exploring** the frontiers of AI and machine learning  
-- 🚀 **Contributing** to open source projects that matter
-- 📚 **Learning** new technologies and design patterns
-- 🌍 **Connecting** with fellow developers worldwide
+**Frontend Developer** @ Caag Online  
+*June 2021 - Present (4+ years)*  
+Building modern web applications and user interfaces
+
+**Developer** @ Profound  
+*September 2024 - January 2025*  
+Full-stack development projects
+
+**IT Administrator** @ Fundashon Kuido di Ambulans Kòrsou  
+*September 2019 - December 2020*  
+System administration and technical support
+
+**IT Help Desk Support** @ Government of Curaçao  
+*January 2020 - July 2020*  
+Technical support and troubleshooting
 
 <br clear="right"/>
 
-## 🏆 **Achievement Unlocked**
+## 🎓 **Education & Certifications**
+
+**Bachelor of Applied Science - Information Technology**  
+Fontys University of Applied Sciences | 2021 - 2026
+
+**ICT Manager Level 4**  
+Frater Aurelio S.B.O. | 2020 - 2021
+
+**Certifications:**
+- ICT & Media Design (Multiple Semesters)
+- ICT & Smart Mobile Development
+- Web Applications Specialist
+
+## 🎯 **Current Focus**
+
+- 🌟 **Building** scalable web applications with modern frameworks
+- 🎨 **Designing** beautiful and intuitive user interfaces
+- 🚀 **Learning** advanced React patterns and WebGL
+- 📚 **Contributing** to open source projects
+- 🌍 **Connecting** with the global developer community
+- 💡 **Exploring** the intersection of design and code
+
+## 🏆 **GitHub Stats**
 
 <div align="center">
   
@@ -72,24 +114,37 @@ const gendrik = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLVictoria&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
-## 🛠️ **Arsenal of Tools**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
+### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling & Design
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
-## 📊 **System Analytics**
+## 📊 **Activity Graph**
 
 <div align="center">
   
@@ -97,15 +152,7 @@ const gendrik = {
 
 </div>
 
-## 🌟 **Featured Repositories**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GLVictoria&repo=GLVictoria&theme=radical&hide_border=true)](https://github.com/GLVictoria/GLVictoria)
-
-</div>
-
-## 💫 **Random Dev Quote**
+## 💫 **Developer Quote**
 
 <div align="center">
   
@@ -113,7 +160,7 @@ const gendrik = {
 
 </div>
 
-## 🎮 **Connect & Collaborate**
+## 🎮 **Let's Connect!**
 
 <div align="center">
 
@@ -127,9 +174,30 @@ const gendrik = {
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### 📬 **Reach Me At:**
+### 📬 **Reach Out:**
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gendrik-victoria/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gendrik.victoria@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GLVictoria)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/GLVictoria)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Fun Facts About Me**
+
+```javascript
+const funFacts = {
+    workStyle: "Cool under pressure, quality-focused 💪",
+    passion: "Pushing boundaries & constant learning 📚",
+    superpower: "Turning complex designs into clean code ✨",
+    mission: "Making the web more user-friendly, one project at a time 🚀",
+    collaboration: "Strong believer in teamwork & open communication 🤝"
+};
+```
 
 </div>
 
@@ -137,7 +205,7 @@ const gendrik = {
 
 <div align="center">
   
-**🌟 Thanks for stopping by! Have an awesome day! 🌟**
+**🌟 Thanks for visiting my profile! Let's create something amazing together! 🌟**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GLVictoria&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -147,7 +215,9 @@ const gendrik = {
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300">
   <br>
-  <i>Keep coding and stay awesome! 🚀</i>
+  <i>Keep coding, stay creative, and never stop learning! 🚀</i>
+  <br><br>
+  <b>"The best way to predict the future is to invent it." - Alan Kay</b>
 </p>
 </details>
 
@@ -156,7 +226,9 @@ const gendrik = {
 <!-- ASCII Art Footer -->
 ```
 ╭─────────────────────────────────────────────────────────────╮
-│  "The best way to predict the future is to invent it."     │
-│                                        - Alan Kay           │
+│  💻 Code • 🎨 Design • 🚀 Deploy • 🔁 Repeat                │
+│                                                             │
+│  "Making the web a better, more user-friendly place—       │
+│   one project at a time."                                  │
 ╰─────────────────────────────────────────────────────────────╯
 ```
