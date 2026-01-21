@@ -9,235 +9,300 @@
    ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝      ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Frontend+Developer;Media+Designer+%26+Developer;Crafting+Digital+Experiences;Based+in+Netherlands&center=true&size=27">
-</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=GLVictoria&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
 
-### ⚡ POWERED BY PASSION • FUELED BY CAPRI SUN • DRIVEN BY CODE ⚡
+<h1>Frontend Developer & Creative Technologist</h1>
 
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Modern+Web+Experiences;React+%7C+TypeScript+%7C+Next.js;UI%2FUX+Design+Enthusiast;Based+in+Eindhoven+🇳🇱&center=true&width=500&height=50&color=FF6B6B&vCenter=true&size=20">
+</p>
+
+### ⚡ POWERED BY PASSION • FUELED BY INNOVATION • DRIVEN BY CODE ⚡
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 👨‍💻 **About Me**
 
-**Junior Frontend Developer | Media Designer**  
-📍 Eindhoven, North Brabant, Netherlands
+## 🚀 About Me
 
-*Hey there! I'm all about bringing creative ideas to life as a media designer and front-end developer. I thrive on crafting digital experiences that not only look great but also work seamlessly. Over the years, I've learned the importance of listening closely to clients and colleagues alike. By building strong relationships and staying open to feedback, I make sure everyone's on the same page and happy with the results.*
+**Frontend Developer | Creative Problem Solver**  
+📍 Eindhoven, Netherlands
 
-*In this fast-paced field, I've become a pro at staying cool under pressure. I'm no stranger to juggling multiple projects, but I always make sure to deliver quality work on time. What really drives me? It's the thrill of pushing boundaries and constantly learning new things. I'm here to make the web a better, more user-friendly place—one project at a time. Let's create something amazing together!*
+I'm passionate about crafting digital experiences that blend beautiful design with seamless functionality. With a background in both media design and development, I bring a unique perspective to every project—where aesthetics meet performance.
+
+Currently building modern web applications at **Caag Online** while studying **Media Design** at **Fontys University**. I thrive in the intersection of design, code, and emerging technologies.
 
 </div>
 
-## 🚀 **Mission Control**
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Testing & Quality
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 What I'm Focused On
 
 ```javascript
 const gendrik = {
-    location: "Eindhoven, Netherlands 🇳🇱",
-    currentRole: "Junior Frontend Developer",
-    experience: "4+ years in Frontend Development",
-    code: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
-    askMeAbout: ["Web Applications", "UI/UX Design", "Frontend Architecture"],
-    technologies: {
-        frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
-        styling: ["CSS3", "Sass", "Styled Components", "Material-UI"],
-        tools: ["Git", "Webpack", "Vite", "Figma", "Adobe Photoshop", "WordPress"],
-        testing: ["Jest", "React Testing Library", "Cypress"]
+    💼 professional: {
+        company: "Caag Online",
+        role: "Frontend Developer",
+        since: 2021,
+        stack: ["React", "TypeScript", "Next.js", "WordPress"],
+        building: "Scalable web applications & custom solutions"
     },
-    currentWork: "Frontend Developer @ Caag Online (2021 - Present)",
-    education: "BASc Information Technology @ Fontys University",
-    focus: ["Component Architecture", "Performance Optimization", "User Experience"],
-    currentlyLearning: "Advanced React Patterns & Three.js",
-    funFact: "I debug code in my dreams 🌙"
+    
+    📚 currentlyLearning: [
+        "Advanced React Patterns & Hooks",
+        "Three.js & WebGL Graphics",
+        "Modern Animation Libraries (Framer Motion, GSAP)",
+        "Scalable Component Architecture",
+        "Web Performance & Optimization"
+    ],
+    
+    🚀 exploring: [
+        "AI-powered user interfaces",
+        "Interactive 3D web experiences",
+        "Design systems at enterprise scale",
+        "Next-gen frontend frameworks"
+    ],
+    
+    🎨 passion: "Bridging the gap between beautiful design and powerful code"
 };
 ```
 
-## 💼 **Professional Experience**
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLVictoria&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLVictoria&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GLVictoria&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&layout=compact)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+*No blog posts yet? Start writing and share your knowledge!*
+
+</div>
+
+---
+
+## 🏆 Professional Experience
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Frontend Developer** @ Caag Online  
-*June 2021 - Present (4+ years)*  
-Building modern web applications and user interfaces
+**💼 Frontend Developer @ Caag Online**
+*2021 - Present*
+- Building modern web applications with React & TypeScript
+- Developing custom WordPress solutions
+- Implementing scalable component architectures
+- Collaborating with design & backend teams
+- Delivering high-quality user experiences
 
-**Developer** @ Profound  
-Full-stack development projects
+**🔧 Technical Expertise**
+- 4+ years of production frontend development
+- Strong foundation in React ecosystem
+- Modern JavaScript/TypeScript mastery
+- Performance optimization & best practices
 
-**IT Administrator** @ Fundashon Kuido di Ambulans Kòrsou  
-System administration and technical support
+**🎨 Design & UX**
+- Background in media design
+- User-centered approach to development
+- Eye for detail and polish
+- Responsive & accessible interfaces
 
-**IT Help Desk Support** @ Government of Curaçao  
-Technical support and troubleshooting
+**📚 Always Learning**
+- Exploring cutting-edge web technologies
+- Staying current with industry trends
+- Contributing to the developer community
+- Expanding skillset continuously
 
 <br clear="right"/>
 
-## 🎓 **Education & Certifications**
+---
 
-**Bachelor of Applied Science - Information Technology**  
-Fontys University of Applied Sciences
-
-**ICT Manager Level 4**  
-Frater Aurelio S.B.O.
-
-**Certifications:**
-- ICT & Media Design (Multiple Semesters)
-- ICT & Smart Mobile Development
-- Web Applications Specialist
-
-## 🎯 **Current Focus**
-
-- 🌟 **Building** scalable web applications with modern frameworks
-- 🎨 **Designing** beautiful and intuitive user interfaces
-- 🚀 **Learning** advanced React patterns and WebGL
-- 📚 **Contributing** to open source projects
-- 🌍 **Connecting** with the global developer community
-- 💡 **Exploring** the intersection of design and code
-
-## 🏆 **GitHub Stats**
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GLVictoria&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLVictoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GLVictoria&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&langs_count=6&hide=python,java,c,c%2B%2B,php)
-
-</div>
-
-<div align="center">
-
-### 🏅 **GitHub Trophies**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GLVictoria&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
-## 🛠️ **Tech Stack**
-
-<div align="center">
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Styling & Design
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
-## 📊 **Activity Graph**
-
-<div align="center">
-  
-[![Gendrik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GLVictoria&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 💫 **Developer Quote**
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🎮 **Let's Connect!**
+## 💡 Development Philosophy
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                  🌐 Let's Build Something Amazing Together! │
 │                                                             │
-│  💡 Got an idea? Let's turn it into reality!               │
-│  🤝 Want to collaborate? I'm always up for a challenge!    │
-│  🍵 Tea chat? Let's talk tech and innovation!              │
+│  "Write code that humans can understand,                   │
+│   design interfaces that users love,                       │
+│   and build products that solve real problems."            │
+│                                                             │
+│                         - My Approach                       │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### 📬 **Reach Out:**
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gendrik-victoria/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gendrik.victoria@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GLVictoria)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/GLVictoria)
+**Core Principles:**
+
+- 🎯 **User-First**: Every feature should serve a real user need
+- 🧩 **Component Thinking**: Build reusable, maintainable systems
+- ⚡ **Performance Matters**: Fast experiences create happy users
+- 📱 **Responsive Always**: Mobile-first, accessible by default
+- 🔄 **Iterate & Improve**: Ship fast, learn faster, improve continuously
+- 🤝 **Collaborate Openly**: Best solutions come from diverse perspectives
+
+---
+
+## 🎓 Education & Background
+
+**🎓 Current Education**
+- Bachelor of Media Design, Fontys University (In Progress)
+
+**🎓 Previous Education**
+- ICT Manager Level 4, Frater Aurelio S.B.O.
+- ICT & Media Design certifications
+
+**💼 Professional Journey**
+- Frontend Developer @ Caag Online (2021 - Present)
+- Developer @ Profound
+- IT roles in system administration & technical support
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+![Fontys](https://img.shields.io/badge/ICT_%26_Smart_Mobile-Semester_4-7B2D8E?style=for-the-badge&logo=bookstack&logoColor=white)
+![Fontys](https://img.shields.io/badge/ICT_%26_Media_Design-Semester_2-7B2D8E?style=for-the-badge&logo=bookstack&logoColor=white)
+![Fontys](https://img.shields.io/badge/ICT_%26_Media_Design-Semester_1-7B2D8E?style=for-the-badge&logo=bookstack&logoColor=white)
+
+**Issued by Fontys University of Applied Sciences**  
+*30 ECTS/EC per certification*
 
 </div>
 
 ---
 
+## 📫 Let's Connect
+
 <div align="center">
 
-### 🌟 **Fun Facts About Me**
-
-```javascript
-const funFacts = {
-    workStyle: "Cool under pressure, quality-focused 💪",
-    passion: "Pushing boundaries & constant learning 📚",
-    superpower: "Turning complex designs into clean code ✨",
-    mission: "Making the web more user-friendly, one project at a time 🚀",
-    collaboration: "Strong believer in teamwork & open communication 🤝"
-};
+```
+┌─────────────────────────────────────────────────────────────┐
+│     🚀 Open for Collaboration & Interesting Opportunities   │
+│                                                             │
+│  💡 Have a project idea? Let's build it together           │
+│  🤝 Want to collaborate? I'm always up for a challenge     │
+│  ☕ Let's chat about tech, design, or the web              │
+└─────────────────────────────────────────────────────────────┘
 ```
 
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gendrik-victoria/)
+[![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gendrik.victoria@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GLVictoria)
+
 </div>
 
 ---
 
 <div align="center">
-  
-**🌟 Thanks for visiting my profile! Let's create something amazing together! 🌟**
 
-![Profile Views](https://komarev.com/ghpvc/?username=GLVictoria&label=Profile%20Views&color=0e75b6&style=flat)
+### ✨ Fun Facts
+
+**🎮 When I'm Not Coding:**
+- 🎨 Exploring creative design
+- 📱 Staying current with tech trends
+- 🎯 Building side projects
+- 🌍 Learning new things every day
+- ☕ Fueled by Capri Sun!
 
 <details>
-<summary>🎁 <b>Click for a surprise!</b></summary>
+<summary>🎁 <b>Click for motivation!</b></summary>
 <br>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300">
-  <br>
-  <i>Keep coding, stay creative, and never stop learning! 🚀</i>
   <br><br>
-  <b>"The best way to predict the future is to invent it." - Alan Kay</b>
+  <i>"The best error message is the one that never shows up."</i>
+  <br>
+  <b>- Thomas Fuchs</b>
+  <br><br>
+  <i>Keep shipping, stay curious, never stop building! 🚀</i>
 </p>
 </details>
 
 </div>
 
-<!-- ASCII Art Footer -->
+---
+
+<!-- Footer -->
+<div align="center">
+
 ```
 ╭─────────────────────────────────────────────────────────────╮
-│  💻 Code • 🎨 Design • 🚀 Deploy • 🔁 Repeat                │
 │                                                             │
-│  "Making the web a better, more user-friendly place—       │
-│   one project at a time."                                  │
+│  💻 Code • 🎨 Design • 🚀 Ship • 🔁 Iterate                 │
+│                                                             │
+│  "Making the web more beautiful, functional,               │
+│   and user-friendly—one component at a time."              │
+│                                                             │
 ╰─────────────────────────────────────────────────────────────╯
 ```
+
+**⭐ If you find my work interesting, consider starring some repos! ⭐**
+
+<sub>Built with 💙 by Gendrik Victoria • Last updated: 2026</sub>
+
+</div>
