@@ -129,14 +129,68 @@ const gendrik = {
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📝 Latest Tech Articles
 
 <div align="center">
 
-*No blog posts yet? Start writing and share your knowledge!*
+### 🔥 Trending Topics on Dev.to
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://dev.to/t/javascript">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
+<sub><b>JavaScript</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://dev.to/t/react">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+<sub><b>React</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://dev.to/t/typescript">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+<sub><b>TypeScript</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://dev.to/t/webdev">
+<img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /><br/>
+<sub><b>Web Development</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://dev.to/t/css">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+<sub><b>CSS</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://dev.to/t/frontend">
+<img src="https://img.shields.io/badge/Frontend-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" /><br/>
+<sub><b>Frontend</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://dev.to/t/vue">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /><br/>
+<sub><b>Vue.js</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://dev.to/t/nextjs">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
+<sub><b>Next.js</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<sub>💡 Click any topic to explore the latest articles on Dev.to</sub>
 
 </div>
 
